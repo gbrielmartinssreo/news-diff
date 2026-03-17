@@ -1,0 +1,45 @@
+# Formato: Nome|URL
+
+# --- BRASIL - GERAL ---
+G1|https://g1.globo.com/rss/g1/
+Folha|https://feeds.folha.uol.com.br/emcimadahora/rss091.xml
+IG|https://ultimosegundo.ig.com.br/rss.xml
+
+# --- BRASIL - ECONOMIA ---
+InfoMoney|https://www.infomoney.com.br/feed/
+Exame|https://exame.com/feed/
+MoneyTimes|https://www.moneytimes.com.br/feed/
+Investing Brasil|https://br.investing.com/rss/news.rss
+
+# --- BRASIL - TECNOLOGIA ---
+Canaltech|https://canaltech.com.br/rss/
+Olhar Digital|https://olhardigital.com.br/feed/
+Tecnoblog|https://tecnoblog.net/feed/
+
+# --- BRASIL - CIÊNCIA ---
+Superinteressante|https://super.abril.com.br/feed/
+
+# --- INTERNACIONAL - GERAL ---
+BBC|https://feeds.bbci.co.uk/news/rss.xml
+BBC Brasil|https://feeds.bbci.co.uk/portuguese/rss.xml
+CNN Brasil|https://www.cnnbrasil.com.br/rss/
+The Guardian|https://www.theguardian.com/world/rss
+Al Jazeera|https://www.aljazeera.com/xml/rss/all.xml
+New York Times|https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml
+Washington Post|http://feeds.washingtonpost.com/rss/world
+
+# --- TECNOLOGIA INTERNACIONAL ---
+TechCrunch|https://techcrunch.com/feed/
+Wired|https://www.wired.com/feed/rss
+Ars Technica|http://feeds.arstechnica.com/arstechnica/index
+MIT Technology Review|https://www.technologyreview.com/feed/
+
+# --- MERCADO FINANCEIRO GLOBAL ---
+Financial Times|https://www.ft.com/?format=rss
+CNBC|https://www.cnbc.com/id/100003114/device/rss/rss.html
+MarketWatch|http://feeds.marketwatch.com/marketwatch/topstories/
+
+# --- CULTURA / ENTRETENIMENTO ---
+Rolling Stone|https://www.rollingstone.com/music/music-news/feed/
+Variety|https://variety.com/feed/
+The Hollywood Reporter|https://www.hollywoodreporter.com/feed/
