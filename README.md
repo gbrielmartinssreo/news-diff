@@ -1,5 +1,7 @@
 # News Diff 📰
 
+![Status do Projeto](https://img.shields.io/badge/Status-Concluído-green)
+
 Sistema para **coleta, análise e agrupamento de notícias semelhantes** publicadas por diferentes portais.
 
 O News Diff coleta notícias através de feeds RSS, identifica matérias que tratam do mesmo assunto e gera um ranking dos temas mais republicados. A comparação entre os títulos é realizada utilizando o algoritmo **LCS (Longest Common Subsequence)**, implementado com Programação Dinâmica.
