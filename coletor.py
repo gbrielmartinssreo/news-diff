@@ -1,5 +1,5 @@
 """
-coletor.py — Coleta notícias de portais brasileiros via RSS
+coletor.py — Coleta notícias de portais via RSS
 """
 
 import json
