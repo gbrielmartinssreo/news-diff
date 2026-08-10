@@ -396,4 +396,4 @@ Projeto desenvolvido para a disciplina de **Projeto e Análise de Algoritmos** d
 **Faculdade de Engenharia**
 **Engenharia da Computação**
 
-Professor: **Prof. Dr. Gustavo Post Sabin**.
+Professor: **Gustavo Post Sabin**.
